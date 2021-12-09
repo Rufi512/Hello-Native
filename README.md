@@ -1,0 +1,2 @@
+# Hello-Native
+This is a small project with the sole purpose of learning react native, several of its screens are based on [this public figma](https://www.figma.com/community/file/1035919542567047557) design :p
